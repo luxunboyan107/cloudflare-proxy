@@ -4,7 +4,7 @@ import { connect } from "cloudflare:sockets";
 
 // How to generate your own UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
-let userID = "86c50e3a-5b87-49dd-bd20-03c7f2735e40";
+let userID = "895231ea-c2c3-4b7f-acbe-d4021f84c3d3";
 // 添加需要直接使用 proxyip 的域名列表，支持从环境变量扩展
 let proxydomains = ["twitch.tv", "ttvnw.net"];
 
